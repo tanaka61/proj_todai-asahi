@@ -11,3 +11,6 @@ The repository is used to analyze Todai-Asahi data, and produce tables and figur
 - Jupyter Notebook files
   - analyze_py.ipynb
 
+### Notes
+
+- After cloning the repository, create two files ("build_input" and "analysis_output").
