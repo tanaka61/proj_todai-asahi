@@ -1,0 +1,3 @@
+[submodule "build input/data todai-asahi"]
+	path = build input/data todai-asahi
+	url = https://github.com/tanaka61/data_todai-asahi
